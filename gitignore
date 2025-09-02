@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_convert*
+*.nbconvert*
+*.nb.html
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+*.egg-info/
+pip-wheel-metadata/
+
+# Data & artifacts
+data/
+datasets/
+logs/
+models/
+outputs/
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.joblib
+*.pkl
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
